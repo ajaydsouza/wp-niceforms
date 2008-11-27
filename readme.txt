@@ -1,7 +1,8 @@
 === WP-Niceforms ===
-Tags: wp-niceforms, images, open window, javascript, forms
+Tags: wp-niceforms, javascript, forms
 Contributors: Ajay D'Souza, Emblematiq
 Stable tag: trunk
+Donate link: http://ajaydsouza.com/donate/
 
 Niceforms is a script that will replace the most commonly used form elements with custom designed ones. You can either use the default theme that is provided or you can even develop your own look with minimal effort. 
 
