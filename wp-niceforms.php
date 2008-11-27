@@ -34,7 +34,7 @@ var imagesPath = "<?php echo $plugin_url ?>/niceforms/img/";
 -->
 </script>
 <script type="text/javascript" src="<?php echo $plugin_url ?>/niceforms/niceforms.js"></script>
-<link rel="stylesheet" type="text/css" media="all" href="<?php echo $plugin_url ?>/niceforms/niceforms-default.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo $plugin_url ?>/niceforms/niceforms-default.css" />
 <?php
 }
 

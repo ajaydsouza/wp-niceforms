@@ -263,7 +263,8 @@ URL: http://www.emblematiq.com/
 }
 
 .NFSelectOptions li {
-	background: none;
+	background-image: none;
+	padding: 0px;
 }
 
 .NFSelectOptions a {
